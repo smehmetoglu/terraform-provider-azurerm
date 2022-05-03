@@ -277,7 +277,7 @@ github.com/hashicorp/go-azure-helpers/storage
 github.com/hashicorp/go-checkpoint
 # github.com/hashicorp/go-cleanhttp v0.5.2
 github.com/hashicorp/go-cleanhttp
-# github.com/hashicorp/go-getter v1.5.3
+# github.com/hashicorp/go-getter v1.5.11
 ## explicit
 github.com/hashicorp/go-getter
 github.com/hashicorp/go-getter/helper/url
